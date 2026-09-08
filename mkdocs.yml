@@ -1,12 +1,12 @@
 
 # Replace the text below to customize your site
-site_name: Nombre Estudiante - UTEC & Fab Lab Barcelona & Fab Lab Esan
+site_name: Paula Diaz - UTEC & Fab Lab Barcelona & Fab Lab Esan
 site_description: Master in Design for Emergent Futures
-site_author: Nombre Estudiante
-copyright: Copyleft 2024 "Nombre Estudiante" - GNU Free Documentation License
+site_author: Paula Diaz
+copyright: Copyleft 2026 "Paula Diaz" - GNU Free Documentation License
 repo_name: "Name : Github Repo"
-site_url: https://fablabbcn.github.io/efdi-template/
-repo_url: https://github.com/fablabbcn/efdi-template
+site_url: https://fablabbcn.github.io/paula-diaz/
+repo_url: https://github.com/fablabbcn/paula-diaz
 
 nav:
   - Home: index.md
