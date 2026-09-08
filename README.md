@@ -8,8 +8,8 @@ Este es un template para el repositorio personal de los estudiantes durante la *
 
 Antes de empezar, asegúrate de tener instalados:
 
-- **Git** → [Descargar Git](https://git-scm.com/downloads)  
-- **Python 3** → [Descargar Python](https://www.python.org/downloads/)  
+- **Git** → [Descargar Git](https://git-scm.com/downloads)
+- **Python 3** → [Descargar Python](https://www.python.org/downloads/)
 
 ---
 
@@ -22,8 +22,9 @@ git --version
 python --version
 ```
 
-Deberías ver un número de versión para cada uno.  
+Deberías ver un número de versión para cada uno.
 Ejemplo:
+
 ```
 git version 2.46.0
 Python 3.11.6
@@ -82,7 +83,13 @@ Para ver la documentación en tu navegador (servidor local):
 mkdocs serve
 ```
 
-👉 Abre en tu navegador: [http://127.0.0.1:8000](http://127.0.0.1:8000)
+👉 Abre en tu navegadobash
+
+
+
+
+
+r: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
 
@@ -100,13 +107,14 @@ El contenido dentro de `site/` es el que se publica en **GitHub Pages**.
 
 ## 🔗 Recursos útiles
 
-- [Documentación del curso en Moodle](https://ev1.utec.edu.uy/moodle/course/view.php?id=15375&section=1#tabs-tree-start)  
-- [MkDocs — Documentación oficial](https://www.mkdocs.org/)  
-- [Material for MkDocs — Tema oficial](https://squidfunk.github.io/mkdocs-material/)  
+- [Documentación del curso en Moodle](https://ev1.utec.edu.uy/moodle/course/view.php?id=15375&section=1#tabs-tree-start)
+- [MkDocs — Documentación oficial](https://www.mkdocs.org/)
+- [Material for MkDocs — Tema oficial](https://squidfunk.github.io/mkdocs-material/)
 - [Comandos - GIT](https://education.github.com/git-cheat-sheet-education.pdf)
+
 ---
 
 ## 🚀 Demo del template
 
-Puedes visitar la demo del template aquí:  
+Puedes visitar la demo del template aquí:
 👉 [https://mathira.github.io/efdi-template/](https://mathira.github.io/efdi-template/)
