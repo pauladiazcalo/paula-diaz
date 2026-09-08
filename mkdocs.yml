@@ -5,8 +5,8 @@ site_description: Master in Design for Emergent Futures
 site_author: Paula Diaz
 copyright: Copyleft 2026 "Paula Diaz" - GNU Free Documentation License
 repo_name: "Name : Github Repo"
-site_url: https://fablabbcn.github.io/paula-diaz/
-repo_url: https://github.com/fablabbcn/paula-diaz
+site_url: https://pauladiazcalo.github.io/paula-diaz/
+repo_url: https://github.com/pauladiazcalo/paula-diaz
 
 nav:
   - Home: index.md
