@@ -1,3 +1,5 @@
+ asl
+
 # Sobre mi
 
 ![hola.png](./image/me/hola.png)
@@ -17,10 +19,5 @@ Junto a Pao Maldonado integramos el **Club de Biomateriales,** un espacio de ens
 
 ![Biomateriales 4](biomateriales4.jpeg)![Biomateriales 5](biomateriales5.jpeg)
 *Parte del trabajo de grado "Biomateriales a partir de la revalorización de residuos gastronómicos de cafeteria local" que realizamos junto con Lucia Berasain*
-
-
-
-
-
 
 Además, trabajo como freelance y en espacios vinculados a lo social. Tengo gustos e intereses muy variados, por eso disfruto involucrarme en proyectos diferentes. Soy bastante inquieta en todos los sentidos 🤸🏽‍♀️
