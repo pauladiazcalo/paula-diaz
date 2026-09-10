@@ -13,10 +13,10 @@ También tengo un gran interés por la **cerámica.** Durante un tiempo llevé a
 Junto a Pao Maldonado integramos el **Club de Biomateriales,** un espacio de enseñanza, acompañamiento y desarrollo en torno a los biomateriales. Trabajamos a pedido y realizamos talleres de manera esporádica 🪸🌱
 
 ![cdb](cdb.jpeg) ![Biohilo](biohilo.gif)
-*Club de Biomateriales*
+*Club de Biomateriales* [CldB](https://www.instagram.com/biomaterials_club?stkn=dWxtdmJhM2ZydTRj)
 
 ![Biomateriales 4](biomateriales4.jpeg)![Biomateriales 5](biomateriales5.jpeg)
-*Parte del trabajo de grado junto con Lucia Berasain*
+*Parte del trabajo de grado "Biomateriales a partir de la revalorización de residuos gastronómicos de cafeteria local" que realizamos junto con Lucia Berasain*
 
 
 
