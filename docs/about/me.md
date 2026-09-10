@@ -4,7 +4,7 @@
 
 Soy **diseñadora industrial**, con perfil orientado al desarrollo de productos. Me considero una persona *curiosa y creativa*, con especial interés en los procesos que combinan diseño, arte e innovación. Me gusta crear, experimentar con materiales y encontrar nuevas formas de transformar ideas en experiencias y objetos. Disfruto especialmente de los proyectos con un propósito social, educativo o ambiental, y de trabajar en espacios donde pueda aprender, compartir y aportar 🎨🌿
 
-![Video 1](video1.gif)![Cerámica](ceramica1.png)![taller](taller.png)
+![Video 1](video1.gif) ![taller](taller.png)
 
 También tengo un gran interés por la **cerámica.** Durante un tiempo llevé adelante un emprendimiento junto con amigas. Actualmente continúo produciendo por mi cuenta en mis tiempos libres 💕
 
@@ -12,7 +12,7 @@ También tengo un gran interés por la **cerámica.** Durante un tiempo llevé a
 
 Junto a Pao Maldonado integramos el **Club de Biomateriales,** un espacio de enseñanza, acompañamiento y desarrollo en torno a los biomateriales. Trabajamos a pedido y realizamos talleres de manera esporádica 🪸🌱
 
-![Biomateriales 3](biomateriales3.jpeg)![Biomateriales 1](biomateriales1.jpeg)
+![cdb](cdb.jpeg) ![Biohilo](biohilo.gif)
 *Club de Biomateriales*
 
 ![Biomateriales 4](biomateriales4.jpeg)![Biomateriales 5](biomateriales5.jpeg)
