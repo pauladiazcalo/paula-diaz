@@ -1,4 +1,3 @@
- asl
 
 # Sobre mi
 
