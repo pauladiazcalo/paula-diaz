@@ -6,7 +6,7 @@
 
 Soy **diseñadora industrial**, con perfil orientado al desarrollo de productos. Me considero una persona *curiosa y creativa*, con especial interés en los procesos que combinan diseño, arte e innovación. Me gusta crear, experimentar con materiales y encontrar nuevas formas de transformar ideas en experiencias y objetos. Disfruto especialmente de los proyectos con un propósito social, educativo o ambiental, y de trabajar en espacios donde pueda aprender, compartir y aportar 🎨🌿
 
-| ![Video 1](video1.gif) | ![taller](taller.png) |
+![Video 1](video1.gif){: width="200px"} ![taller](taller.png){: width="200px"}
 
 También tengo un gran interés por la **cerámica.** Durante un tiempo llevé adelante un emprendimiento junto con amigas. Actualmente continúo produciendo por mi cuenta en mis tiempos libres 💕
 
