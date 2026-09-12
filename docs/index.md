@@ -1,4 +1,4 @@
-## Bienvenidos :)
+# Bienvenidos :)
 
 ![](../images/perezoso.jpg)
 
