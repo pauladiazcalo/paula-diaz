@@ -1,4 +1,6 @@
-Lo primero que hice fue descargarme **Visual Studio Code** y ver diferentes tutoriales para tener un conocimiento general. Algunos de los tutoriales fueron:
+# Lo primero que hice fue:
+
+Me descargué **Visual Studio Code** y visualice diferentes tutoriales para tener un conocimiento general. Algunos de los tutoriales fueron:
 
 [![VISUAL STUDIO CODE: Tutorial para principiantes](https://img.youtube.com/vi/CxF3ykWP1H4/maxresdefault.jpg)](https://www.youtube.com/watch?v=CxF3ykWP1H4)
 
@@ -6,9 +8,9 @@ Al principio no entendí del todo la consigna, pero tenía muchas ganas de proba
 
 *“Necesito que me armes un prompt. La página ya está creada mediante una plantilla, entonces necesito los prompts necesarios para utilizar Copilot de manera eficiente. Programa los prompts uno a uno para que yo pueda ir dándole instrucciones a Copilot dentro de Visual Studio Code. Mi nombre es Paula Díaz Calo, Diseñadora Industrial, perfil producto, interés por las nuevas materialidades e innovación. Necesito que respetes la plantilla, pero que la edites según mi perfil personal. Los prompts tienen que prever el análisis del proyecto. (No quiero que armes los prompts, quiero que me ayudes a diseñar esta instrucción para que otra IA arme los prompts)”.*
 
-Y me devolvió este prompt para Copilot:
+**Y me devolvió este prompt para Copilot:**
 
-Tu objetivo es crear una secuencia organizada de prompts de tipo "Paso a Paso" (Step-by-Step) para ejecuciones directas dentro de Visual Studio Code usando GitHub Copilot. Estos prompts permitirán adaptar una plantilla existente de MkDocs al perfil profesional de una diseñadora industrial.
+"Tu objetivo es crear una secuencia organizada de prompts de tipo "Paso a Paso" (Step-by-Step) para ejecuciones directas dentro de Visual Studio Code usando GitHub Copilot. Estos prompts permitirán adaptar una plantilla existente de MkDocs al perfil profesional de una diseñadora industrial.
 
 Contexto del usuario y perfil:
 Nombre: Paula Díaz Calo
@@ -40,15 +42,15 @@ Prompts individuales e independientes: Diseña los prompts uno a uno, para que e
 
 **Prompt 6:** Personalización de estilos (CSS personalizado / paletas de color en MkDocs para reflejar identidad industrial).
 
-Formato claro: Cada prompt sugerido debe ser muy específico, usar contexto explícito (refiriendo a archivos concretos como mkdocs.yml o carpetas en docs/) y estar formateado en bloques de código para facilitar su copia.
+Formato claro: Cada prompt sugerido debe ser muy específico, usar contexto explícito (refiriendo a archivos concretos como mkdocs.yml o carpetas en docs/) y estar formateado en bloques de código para facilitar su copia."
 
-Llegué a este resultado:
+**Llegué a este resultado:**
 
 ![paginaconIA](paginaconIA.png){: width="800px"}
 
 Que tan mal no está, pero si te pones a ver en detalle, la IA me había modificado todo: desde el color hasta el formato. (Hay preguntas que le hice en el trayecto a la IA sobre dudas para poder terminar de armarla).
 
-**¡A partir de aquí comenzó la web real que ven hoy en día!**
+# ¡A partir de aquí comenzó la web real que ven hoy en día!
 
 Primero me descargué la plantilla desde Moodle. Luego la abrí en Visual Studio Code e hice el paso a paso como mencionaba el archivo README. Mi primer obstáculo fue la parte de clonar el repositorio directamente en mi PC para poder trabajarlo dentro de VS Code. Copiaba el enlace que me figuraba en GitHub:
 
@@ -56,9 +58,9 @@ Primero me descargué la plantilla desde Moodle. Luego la abrí en Visual Studio
 
 ...y me daba error. Entonces pensé que otra manera de hacerlo era descargando la carpeta ZIP, pero consultando en Discord, Mathias me comentó que no, que debía copiar el enlace. Sin embargo, la terminal me seguía lanzando un error.
 
-Carolina se comunicó conmigo para ofrecerme ayuda y lo pudimos resolver. El problema fue que, cada vez que copiaba, me agregaba un símbolo al final (el cual no ves en el enlace, pero cuando lo pegas, ¡sí aparecía!). El símbolo era este: ~. Luego me di cuenta de que lo pegaba por defecto.
+Carolina se comunicó conmigo para ofrecerme ayuda y lo pudimos resolver. El problema fue que, cada vez que copiaba, me agregaba un símbolo al final (el cual no ves en el enlace, pero cuando lo pegas, ¡sí aparecía!). El símbolo era este: **~*.* Luego me di cuenta de que lo pegaba por defecto.
 
-A veces, un mal tipeo o un símbolo de más puede cambiar todo el código y dar error.
+**A veces, un mal tipeo o un símbolo de más puede cambiar todo el código y dar error.**
 
 Luego hicimos una carpeta dentro de la que ya teníamos y colocamos la plantilla allí en otra carpeta, pero de alguna forma me habían quedado las carpetas duplicadas:
 
@@ -85,7 +87,7 @@ Luego de insistir y colocarle las instrucciones, quedó:
 
 ![captura 9](captura 9.png){: width="700px"}
 
-Comencé a realizar la sección de "About me" y el mayor problema fueron las imágenes: me quedaban en diferentes tamaños o muy grandes. Quería colocar dos imágenes en la misma línea, pero quedaba una arriba y otra abajo, y muy grandes:
+Comencé a realizar la sección de **"About me"** y el mayor problema fueron las imágenes: me quedaban en diferentes tamaños o muy grandes. Quería colocar dos imágenes en la misma línea, pero quedaba una arriba y otra abajo, y muy grandes:
 
 ![captura11](captura11.jpeg){: width="700px"}
 
@@ -107,4 +109,4 @@ Por lo tanto, le volví a preguntar a la IA y solo me daba sugerencias con HTML,
 
 ![captura15](captura15.png){: width="700px"}
 
-Por lo tanto, tomé la decisión de que quizás el GIF y la imagen estaban hechos en diferentes tamaños. Así que edité tanto el GIF como la imagen, borré los archivos de la PC, volví a subir los archivos editados y... ¡charán! Quedó listo. :)
+Por lo tanto, tomé la decisión de que quizás el GIF y la imagen estaban hechos en diferentes tamaños. Así que edité tanto el GIF como la imagen, borré los archivos de la PC, volví a subir los archivos editados y quedó listo 😊

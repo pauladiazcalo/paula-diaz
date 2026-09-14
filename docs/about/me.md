@@ -1,14 +1,10 @@
+# Paula Diaz
 
-# Sobre mi
-
-![hola.png](./image/me/hola.png){: width="400px"}
-
-Soy **diseñadora industrial**, con perfil orientado al desarrollo de productos. Me considero una persona *curiosa y creativa*, con especial interés en los procesos que combinan diseño, arte e innovación. Me gusta crear, experimentar con materiales y encontrar nuevas formas de transformar ideas en experiencias y objetos. Disfruto especialmente de los proyectos con un propósito social, educativo o ambiental, y de trabajar en espacios donde pueda aprender, compartir y aportar 🎨🌿
-
+![hola.png](./image/me/hola.png) {: width="400px"} Soy **diseñadora industrial**, con perfil orientado al desarrollo de productos. Me considero una persona *curiosa y creativa*. Me gusta crear, experimentar con materiales y encontrar nuevas formas de transformar ideas en experiencias y objetos. Disfruto especialmente de los proyectos con un propósito social, educativo o ambiental 🎨🌿
 
 ![Video 1](video1.gif){: width="375px"}   ![taller](taller.png){: width="375px"}
 
-También tengo un gran interés por la **cerámica.** Durante un tiempo llevé adelante un emprendimiento junto con amigas. Actualmente continúo produciendo por mi cuenta en mis tiempos libres 💕
+También tengo interés por la **cerámica.** Durante un tiempo llevé adelante un emprendimiento junto con amigas. Actualmente continúo produciendo por mi cuenta en mis tiempos libres 💕
 
 ![Instagram](instagram.gif){: width="375px"} ![Video 2](video2.gif){: width="375px"}
 
