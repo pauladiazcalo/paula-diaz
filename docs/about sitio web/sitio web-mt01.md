@@ -1,4 +1,6 @@
-# Lo primero que hice fue:
+# Proceso de mi sitio web 📝
+
+### Lo primero que hice fue:
 
 Me descargué **Visual Studio Code** y ví diferentes tutoriales para tener un conocimiento general. Algunos de los tutoriales fueron:
 
@@ -6,27 +8,27 @@ Me descargué **Visual Studio Code** y ví diferentes tutoriales para tener un c
 
 Al principio no entendí del todo la consigna, pero tenía muchas ganas de probar y equivocarme. Me salté pasos: bajé la plantilla buscando en el navegador y no desde Moodle, y se me ocurrió explorar Visual Studio Code. Me bajé Copilot dentro de Visual Studio Code (que es un asistente de IA) y le pedí lo siguiente a Gemini:
 
-*“Necesito que me armes un prompt. La página ya está creada mediante una plantilla, entonces necesito los prompts necesarios para utilizar Copilot de manera eficiente. Programa los prompts uno a uno para que yo pueda ir dándole instrucciones a Copilot dentro de Visual Studio Code. Mi nombre es Paula Díaz Calo, Diseñadora Industrial, perfil producto, interés por las nuevas materialidades e innovación. Necesito que respetes la plantilla, pero que la edites según mi perfil personal. Los prompts tienen que prever el análisis del proyecto. (No quiero que armes los prompts, quiero que me ayudes a diseñar esta instrucción para que otra IA arme los prompts)”.*
+ *“Necesito que me armes un prompt. La página ya está creada mediante una plantilla, entonces necesito los prompts necesarios para utilizar Copilot de manera eficiente. Programa los prompts uno a uno para que yo pueda ir dándole instrucciones a Copilot dentro de Visual Studio Code. Mi nombre es Paula Díaz Calo, Diseñadora Industrial, perfil producto, interés por las nuevas materialidades e innovación. Necesito que respetes la plantilla, pero que la edites según mi perfil personal. Los prompts tienen que prever el análisis del proyecto. (No quiero que armes los prompts, quiero que me ayudes a diseñar esta instrucción para que otra IA arme los prompts)”.*
 
 **Y me devolvió este prompt para Copilot:**
 
-> blockquoteTu objetivo es crear una secuencia organizada de prompts de tipo "Paso a Paso" (Step-by-Step) para ejecuciones directas dentro de Visual Studio Code usando GitHub Copilot. Estos prompts permitirán adaptar una plantilla existente de MkDocs al perfil profesional de una diseñadora industrial.
+*"Tu objetivo es crear una secuencia organizada de prompts de tipo "Paso a Paso" (Step-by-Step) para ejecuciones directas dentro de Visual Studio Code usando GitHub Copilot. Estos prompts permitirán adaptar una plantilla existente de MkDocs al perfil profesional de una diseñadora industrial.*
 
-Contexto del usuario y perfil:
-Nombre: Paula Díaz Calo
+*Contexto del usuario y perfil:*
+*Nombre: Paula Díaz Calo*
 
-Profesión: Diseñadora Industrial (Perfil Producto)
+*Profesión: Diseñadora Industrial (Perfil Producto)*
 
-Áreas de interés/enfoque: Nuevas materialidades e innovación
+*Áreas de interés/enfoque: Nuevas materialidades e innovación*
 
-Herramienta: Sitio web generado en MkDocs con entorno en Visual Studio Code.
+*Herramienta: Sitio web generado en MkDocs con entorno en Visual Studio Code.*
 
-Premisa clave: Se debe respetar la estructura básica de la plantilla actual de MkDocs, pero adaptando todo el texto, secciones, jerarquías de contenido y placeholders visuales al perfil de Paula.
+*Premisa clave: Se debe respetar la estructura básica de la plantilla actual de MkDocs, pero adaptando todo el texto, secciones, jerarquías de contenido y placeholders visuales al perfil de Paula.*
 
-Requisitos para la generación de la secuencia de prompts:
-Analítica de archivos previa (Fase 1): Antes de modificar código, el primer prompt debe pedirle a Copilot que analice el proyecto local (archivos como mkdocs.yml, estructura de carpetas en docs/, hojas de estilo CSS o plantillas Jinja/HTML) para entender cómo está estructurada la plantilla.
+*Requisitos para la generación de la secuencia de prompts:*
+*Analítica de archivos previa (Fase 1): Antes de modificar código, el primer prompt debe pedirle a Copilot que analice el proyecto local (archivos como mkdocs.yml, estructura de carpetas en docs/, hojas de estilo CSS o plantillas Jinja/HTML) para entender cómo está estructurada la plantilla.*
 
-Prompts individuales e independientes: Diseña los prompts uno a uno, para que el usuario pueda copiarlos y pegarlos individualmente en el chat o editor de Copilot dentro de VS Code.
+*Prompts individuales e independientes: Diseña los prompts uno a uno, para que el usuario pueda copiarlos y pegarlos individualmente en el chat o editor de Copilot dentro de VS Code.*
 
 **Flujo de trabajo estructurado:**
 
@@ -50,7 +52,8 @@ Formato claro: Cada prompt sugerido debe ser muy específico, usar contexto expl
 
 Que tan mal no está, pero si te pones a ver en detalle, la IA me había modificado todo: desde el color hasta el formato. (Hay preguntas que le hice en el trayecto a la IA sobre dudas para poder terminar de armarla).
 
-# A partir de aquí comenzó la web real que ven hoy en día!
+### A partir de aquí comenzó la web real que ven hoy en día!
+
 Primero me descargué la plantilla desde Moodle. Luego la abrí en Visual Studio Code e hice el paso a paso como mencionaba el archivo README. Mi primer obstáculo fue la parte de clonar el repositorio directamente en mi PC para poder trabajarlo dentro de VS Code. Copiaba el enlace que me figuraba en GitHub:
 
 ![image](image.webp){: width="500px"}
