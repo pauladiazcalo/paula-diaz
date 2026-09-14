@@ -10,7 +10,7 @@ Al principio no entendí del todo la consigna, pero tenía muchas ganas de proba
 
 **Y me devolvió este prompt para Copilot:**
 
-"Tu objetivo es crear una secuencia organizada de prompts de tipo "Paso a Paso" (Step-by-Step) para ejecuciones directas dentro de Visual Studio Code usando GitHub Copilot. Estos prompts permitirán adaptar una plantilla existente de MkDocs al perfil profesional de una diseñadora industrial.
+> blockquoteTu objetivo es crear una secuencia organizada de prompts de tipo "Paso a Paso" (Step-by-Step) para ejecuciones directas dentro de Visual Studio Code usando GitHub Copilot. Estos prompts permitirán adaptar una plantilla existente de MkDocs al perfil profesional de una diseñadora industrial.
 
 Contexto del usuario y perfil:
 Nombre: Paula Díaz Calo
@@ -51,7 +51,6 @@ Formato claro: Cada prompt sugerido debe ser muy específico, usar contexto expl
 Que tan mal no está, pero si te pones a ver en detalle, la IA me había modificado todo: desde el color hasta el formato. (Hay preguntas que le hice en el trayecto a la IA sobre dudas para poder terminar de armarla).
 
 # A partir de aquí comenzó la web real que ven hoy en día!
-
 Primero me descargué la plantilla desde Moodle. Luego la abrí en Visual Studio Code e hice el paso a paso como mencionaba el archivo README. Mi primer obstáculo fue la parte de clonar el repositorio directamente en mi PC para poder trabajarlo dentro de VS Code. Copiaba el enlace que me figuraba en GitHub:
 
 ![image](image.webp){: width="500px"}
