@@ -1,6 +1,6 @@
 # Lo primero que hice fue:
 
-Me descargué **Visual Studio Code** y visualice diferentes tutoriales para tener un conocimiento general. Algunos de los tutoriales fueron:
+Me descargué **Visual Studio Code** y ví diferentes tutoriales para tener un conocimiento general. Algunos de los tutoriales fueron:
 
 [![VISUAL STUDIO CODE: Tutorial para principiantes](https://img.youtube.com/vi/CxF3ykWP1H4/maxresdefault.jpg)](https://www.youtube.com/watch?v=CxF3ykWP1H4)
 
@@ -50,7 +50,7 @@ Formato claro: Cada prompt sugerido debe ser muy específico, usar contexto expl
 
 Que tan mal no está, pero si te pones a ver en detalle, la IA me había modificado todo: desde el color hasta el formato. (Hay preguntas que le hice en el trayecto a la IA sobre dudas para poder terminar de armarla).
 
-# ¡A partir de aquí comenzó la web real que ven hoy en día!
+# A partir de aquí comenzó la web real que ven hoy en día!
 
 Primero me descargué la plantilla desde Moodle. Luego la abrí en Visual Studio Code e hice el paso a paso como mencionaba el archivo README. Mi primer obstáculo fue la parte de clonar el repositorio directamente en mi PC para poder trabajarlo dentro de VS Code. Copiaba el enlace que me figuraba en GitHub:
 
@@ -58,7 +58,7 @@ Primero me descargué la plantilla desde Moodle. Luego la abrí en Visual Studio
 
 ...y me daba error. Entonces pensé que otra manera de hacerlo era descargando la carpeta ZIP, pero consultando en Discord, Mathias me comentó que no, que debía copiar el enlace. Sin embargo, la terminal me seguía lanzando un error.
 
-Carolina se comunicó conmigo para ofrecerme ayuda y lo pudimos resolver. El problema fue que, cada vez que copiaba, me agregaba un símbolo al final (el cual no ves en el enlace, pero cuando lo pegas, ¡sí aparecía!). El símbolo era este: **~*.* Luego me di cuenta de que lo pegaba por defecto.
+Carolina se comunicó conmigo para ofrecerme ayuda y lo pudimos resolver. El problema fue que, cada vez que copiaba, me agregaba un símbolo al final (el cual no ves en el enlace, pero cuando lo pegas, ¡sí aparecía!). El símbolo era este: **~.** Luego me di cuenta de que lo pegaba por defecto.
 
 **A veces, un mal tipeo o un símbolo de más puede cambiar todo el código y dar error.**
 

@@ -1,5 +1,7 @@
-# Bienvenidos :)
+# Hola! 👋🏽
 
-![](../images/perezoso.jpg)
+Soy Paula y en esta pagina se visualizará mi proceso de trabajo en el posgrado de la **Especialización de Fabricacion Digital e Innovación** (EFDI) de UTEC, impulsado por la Universidad Tecnológica de Uruguay (UTEC) en colaboración con Fab Lab Barcelona (IAAC) y el Centro de Innovación Tecnológica Fab Lab ESAN de la Universidad ESAN de Perú.
 
-En esta pagina se visualizará mi proceso de trabajo en el posgrado de la Especialización de Fabricacion Digital e Innovación (EFDI) de UTEC.
+[Página Web UTEC](https://utec.edu.uy/es/educacion/posgrado/especializacion-en-fabricacion-digital-e-innovacion/)
+
+### Bienvenidos!
