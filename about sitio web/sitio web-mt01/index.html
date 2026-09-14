@@ -67,6 +67,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#lo-primero-que-hice-fue" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -219,6 +224,8 @@
   <li class="md-nav__item md-nav__item--active">
     
     <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
     
     
     <a href="./" title="About sitio web" class="md-nav__link md-nav__link--active">
@@ -425,6 +432,21 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
@@ -438,14 +460,13 @@
                   
                 
                 
-                  <h1>About sitio web</h1>
-                
-                <p>Lo primero que hice fue descargarme <strong>Visual Studio Code</strong> y ver diferentes tutoriales para tener un conocimiento general. Algunos de los tutoriales fueron:</p>
+                <h1 id="lo-primero-que-hice-fue">Lo primero que hice fue:<a class="headerlink" href="#lo-primero-que-hice-fue" title="Permanent link">&para;</a></h1>
+<p>Me descargué <strong>Visual Studio Code</strong> y visualice diferentes tutoriales para tener un conocimiento general. Algunos de los tutoriales fueron:</p>
 <p><a href="https://www.youtube.com/watch?v=CxF3ykWP1H4"><img alt="VISUAL STUDIO CODE: Tutorial para principiantes" src="https://img.youtube.com/vi/CxF3ykWP1H4/maxresdefault.jpg" /></a></p>
 <p>Al principio no entendí del todo la consigna, pero tenía muchas ganas de probar y equivocarme. Me salté pasos: bajé la plantilla buscando en el navegador y no desde Moodle, y se me ocurrió explorar Visual Studio Code. Me bajé Copilot dentro de Visual Studio Code (que es un asistente de IA) y le pedí lo siguiente a Gemini:</p>
 <p><em>“Necesito que me armes un prompt. La página ya está creada mediante una plantilla, entonces necesito los prompts necesarios para utilizar Copilot de manera eficiente. Programa los prompts uno a uno para que yo pueda ir dándole instrucciones a Copilot dentro de Visual Studio Code. Mi nombre es Paula Díaz Calo, Diseñadora Industrial, perfil producto, interés por las nuevas materialidades e innovación. Necesito que respetes la plantilla, pero que la edites según mi perfil personal. Los prompts tienen que prever el análisis del proyecto. (No quiero que armes los prompts, quiero que me ayudes a diseñar esta instrucción para que otra IA arme los prompts)”.</em></p>
-<p>Y me devolvió este prompt para Copilot:</p>
-<p>Tu objetivo es crear una secuencia organizada de prompts de tipo &ldquo;Paso a Paso&rdquo; (Step-by-Step) para ejecuciones directas dentro de Visual Studio Code usando GitHub Copilot. Estos prompts permitirán adaptar una plantilla existente de MkDocs al perfil profesional de una diseñadora industrial.</p>
+<p><strong>Y me devolvió este prompt para Copilot:</strong></p>
+<p>&ldquo;Tu objetivo es crear una secuencia organizada de prompts de tipo &ldquo;Paso a Paso&rdquo; (Step-by-Step) para ejecuciones directas dentro de Visual Studio Code usando GitHub Copilot. Estos prompts permitirán adaptar una plantilla existente de MkDocs al perfil profesional de una diseñadora industrial.</p>
 <p>Contexto del usuario y perfil:
 Nombre: Paula Díaz Calo</p>
 <p>Profesión: Diseñadora Industrial (Perfil Producto)</p>
@@ -462,16 +483,16 @@ Analítica de archivos previa (Fase 1): Antes de modificar código, el primer pr
 <p><strong>Prompt 4:</strong> Estructuración de las páginas de proyectos/portafolio (incluyendo secciones para especificaciones técnicas de materiales y procesos de diseño).</p>
 <p><strong>Prompt 5:</strong> Reemplazo y gestión de imágenes/placeholders (sugerencias para integrar fotografías de productos y prototipos).</p>
 <p><strong>Prompt 6:</strong> Personalización de estilos (CSS personalizado / paletas de color en MkDocs para reflejar identidad industrial).</p>
-<p>Formato claro: Cada prompt sugerido debe ser muy específico, usar contexto explícito (refiriendo a archivos concretos como mkdocs.yml o carpetas en docs/) y estar formateado en bloques de código para facilitar su copia.</p>
-<p>Llegué a este resultado:</p>
+<p>Formato claro: Cada prompt sugerido debe ser muy específico, usar contexto explícito (refiriendo a archivos concretos como mkdocs.yml o carpetas en docs/) y estar formateado en bloques de código para facilitar su copia.&rdquo;</p>
+<p><strong>Llegué a este resultado:</strong></p>
 <p><img alt="paginaconIA" src="../paginaconIA.png" width="800px" /></p>
 <p>Que tan mal no está, pero si te pones a ver en detalle, la IA me había modificado todo: desde el color hasta el formato. (Hay preguntas que le hice en el trayecto a la IA sobre dudas para poder terminar de armarla).</p>
-<p><strong>¡A partir de aquí comenzó la web real que ven hoy en día!</strong></p>
+<h1 id="a-partir-de-aqui-comenzo-la-web-real-que-ven-hoy-en-dia">¡A partir de aquí comenzó la web real que ven hoy en día!<a class="headerlink" href="#a-partir-de-aqui-comenzo-la-web-real-que-ven-hoy-en-dia" title="Permanent link">&para;</a></h1>
 <p>Primero me descargué la plantilla desde Moodle. Luego la abrí en Visual Studio Code e hice el paso a paso como mencionaba el archivo README. Mi primer obstáculo fue la parte de clonar el repositorio directamente en mi PC para poder trabajarlo dentro de VS Code. Copiaba el enlace que me figuraba en GitHub:</p>
 <p><img alt="image" src="../image.webp" width="500px" /></p>
 <p>&hellip;y me daba error. Entonces pensé que otra manera de hacerlo era descargando la carpeta ZIP, pero consultando en Discord, Mathias me comentó que no, que debía copiar el enlace. Sin embargo, la terminal me seguía lanzando un error.</p>
-<p>Carolina se comunicó conmigo para ofrecerme ayuda y lo pudimos resolver. El problema fue que, cada vez que copiaba, me agregaba un símbolo al final (el cual no ves en el enlace, pero cuando lo pegas, ¡sí aparecía!). El símbolo era este: ~. Luego me di cuenta de que lo pegaba por defecto.</p>
-<p>A veces, un mal tipeo o un símbolo de más puede cambiar todo el código y dar error.</p>
+<p>Carolina se comunicó conmigo para ofrecerme ayuda y lo pudimos resolver. El problema fue que, cada vez que copiaba, me agregaba un símbolo al final (el cual no ves en el enlace, pero cuando lo pegas, ¡sí aparecía!). El símbolo era este: **~<em>.</em> Luego me di cuenta de que lo pegaba por defecto.</p>
+<p><strong>A veces, un mal tipeo o un símbolo de más puede cambiar todo el código y dar error.</strong></p>
 <p>Luego hicimos una carpeta dentro de la que ya teníamos y colocamos la plantilla allí en otra carpeta, pero de alguna forma me habían quedado las carpetas duplicadas:</p>
 <p><img alt="carpetas" src="../carpetas.png" width="700px" /></p>
 <p>No me molestaba tanto que estuviera una carpeta dentro de otra, sino que dentro de cada carpeta de paula-diaz estaba la información repetida. Por lo tanto, cuando realizaba modificaciones en Visual Studio Code no se reflejaban, porque estaba trabajando sobre una carpeta que no correspondía. Por eso le pregunté a la IA (Gemini) si me ayudaba y seguí sus pasos:</p>
@@ -485,7 +506,7 @@ Analítica de archivos previa (Fase 1): Antes de modificar código, el primer pr
 <p><img alt="captura7" src="../captura7.png" width="700px" /></p>
 <p>Luego de insistir y colocarle las instrucciones, quedó:</p>
 <p><img alt="captura 9" src="../captura%209.png" width="700px" /></p>
-<p>Comencé a realizar la sección de &ldquo;About me&rdquo; y el mayor problema fueron las imágenes: me quedaban en diferentes tamaños o muy grandes. Quería colocar dos imágenes en la misma línea, pero quedaba una arriba y otra abajo, y muy grandes:</p>
+<p>Comencé a realizar la sección de <strong>&ldquo;About me&rdquo;</strong> y el mayor problema fueron las imágenes: me quedaban en diferentes tamaños o muy grandes. Quería colocar dos imágenes en la misma línea, pero quedaba una arriba y otra abajo, y muy grandes:</p>
 <p><img alt="captura11" src="../captura11.jpeg" width="700px" /></p>
 <p>Con los códigos de esta forma:</p>
 <p><img alt="captura12" src="../captura12.png" width="700px" /></p>
@@ -496,7 +517,7 @@ Analítica de archivos previa (Fase 1): Antes de modificar código, el primer pr
 <p><img alt="captura14" src="../captura14" width="700px" /></p>
 <p>Por lo tanto, le volví a preguntar a la IA y solo me daba sugerencias con HTML, el cual aún desconozco, y me iba a quedar algo complejo para lo que es mi nivel actual:</p>
 <p><img alt="captura15" src="../captura15.png" width="700px" /></p>
-<p>Por lo tanto, tomé la decisión de que quizás el GIF y la imagen estaban hechos en diferentes tamaños. Así que edité tanto el GIF como la imagen, borré los archivos de la PC, volví a subir los archivos editados y&hellip; ¡charán! Quedó listo. :)</p>
+<p>Por lo tanto, tomé la decisión de que quizás el GIF y la imagen estaban hechos en diferentes tamaños. Así que edité tanto el GIF como la imagen, borré los archivos de la PC, volví a subir los archivos editados y quedó listo 😊</p>
                 
                   
                     
@@ -505,7 +526,7 @@ Analítica de archivos previa (Fase 1): Antes de modificar código, el primer pr
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 12, 2026 00:06:07 UTC">September 12, 2026</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 14, 2026 12:19:55 UTC">September 14, 2026</span>
     
   </small>
 </div>
