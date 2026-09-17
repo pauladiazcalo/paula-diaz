@@ -1,6 +1,6 @@
 # Paula Diaz Calo 🍒
 
-![hola.png](./image/me/hola.png){: width="400px}
+![hola.png](./image/me/hola.png){: width="380px"}
 
 Soy **diseñadora industrial**, con perfil orientado al desarrollo de productos. Me considero una persona *curiosa y creativa*. Me gusta crear, experimentar con materiales y encontrar nuevas formas de transformar ideas en experiencias y objetos. Disfruto especialmente de los proyectos con un propósito social, educativo o ambiental 🎨🌿
 
