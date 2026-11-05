@@ -1,4 +1,4 @@
-# Paula Diaz Calo 🍒
+# Paula Diaz Calo 🐝
 
 ![hola.png](./image/me/hola.png){: width="380px"}
 
