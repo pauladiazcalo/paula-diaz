@@ -13,7 +13,9 @@ nav:
   - About: about/me.md
   - About sitio web: about sitio web/sitio web-mt01.md
   - Tecnología y Fabricación:
-      - Bloque 1 MT02-MT03: tecnicos/mt02-03.md
+      - Bloque 1 - MT02: tecnicos/mt02.md
+      - Bloque 1 - MT03: tecnicos/mt03.md
+      - Bloque 1 - FP01: tecnicos/fp01.md
   - Diseño:
       - Bloque 1 MD01: diseno/md01.md
   - Innovación:
